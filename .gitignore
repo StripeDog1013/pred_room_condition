@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# joblib
+*.joblib
+
+# torch model
+*.pt
+
+# cvs
+*.csv
+
+# setting.json
+settings.json
